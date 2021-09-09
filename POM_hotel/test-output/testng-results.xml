@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34790" started-at="2021-08-19T03:55:02Z" finished-at="2021-08-19T03:55:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34790" started-at="2021-08-19T03:55:02Z" finished-at="2021-08-19T03:55:37Z">
+      <class name="qa.testcases.SearchPageTest">
+        <test-method status="PASS" signature="prep()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="prep" is-config="true" duration-ms="14123" started-at="2021-08-19T03:55:02Z" finished-at="2021-08-19T03:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method status="PASS" signature="TakeScreenshot()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="TakeScreenshot" duration-ms="723" started-at="2021-08-19T03:55:17Z" finished-at="2021-08-19T03:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TakeScreenshot -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="teardown" is-config="true" duration-ms="730" started-at="2021-08-19T03:55:17Z" finished-at="2021-08-19T03:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="prep()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="prep" is-config="true" duration-ms="7871" started-at="2021-08-19T03:55:18Z" finished-at="2021-08-19T03:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method status="PASS" signature="ValidateTitleTest()[pri:1, instance:qa.testcases.SearchPageTest@26653222]" name="ValidateTitleTest" duration-ms="51" started-at="2021-08-19T03:55:26Z" finished-at="2021-08-19T03:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="teardown" is-config="true" duration-ms="740" started-at="2021-08-19T03:55:26Z" finished-at="2021-08-19T03:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="prep()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="prep" is-config="true" duration-ms="9080" started-at="2021-08-19T03:55:27Z" finished-at="2021-08-19T03:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prep -->
+        <test-method status="PASS" signature="ClickItineraryTest()[pri:2, instance:qa.testcases.SearchPageTest@26653222]" name="ClickItineraryTest" duration-ms="632" started-at="2021-08-19T03:55:36Z" finished-at="2021-08-19T03:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickItineraryTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:qa.testcases.SearchPageTest@26653222]" name="teardown" is-config="true" duration-ms="760" started-at="2021-08-19T03:55:36Z" finished-at="2021-08-19T03:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- qa.testcases.SearchPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
